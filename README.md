@@ -4,4 +4,4 @@ Teste referente a uma vaga na empresa ponto track.
 
 Github original com projeto privado: @Ventura08
 
-# Cada um dos projetos tem seu próprio README.md
+# Cada uma das pastas tem seu próprio README.md
